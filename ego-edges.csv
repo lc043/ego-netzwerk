@@ -1,0 +1,11 @@
+from,to,weight,relation
+Ich,Johannes,3,Paar
+Ich,Lea,2,Freunde
+Ich,Mara,2,Familie
+Ich,Anne-Rose,2,Familie
+Mara,Anne-Rose,2,Familie
+Mara,Johannes,1,Bekannte
+Mara,Lea,1,Bekannte
+Anne-Rose,Lea,1,Bekannte
+Anne-Rose,Johannes,1,Bekannte
+Lea,Johannes,1,Bekannte
